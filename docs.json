@@ -29,6 +29,14 @@
             ]
           },
           {
+            "group": "Cloud",
+            "pages": [
+              "cloud/regions",
+              "cloud/migration",
+              "cloud/services"
+            ]
+          },
+          {
             "group": "Writing content",
             "pages": [
               "essentials/markdown",
